@@ -1,0 +1,2 @@
+# Standard library only - no external dependencies!
+# The shaman works with pure Python magic.
